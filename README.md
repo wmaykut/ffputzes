@@ -31,8 +31,8 @@ wuf:
   * Creates AI bots (like this one)
   * Getting back to running after a foot injury
 
-rlether:
-  * Wife of zgward
+Shake and Drake:
+  * Wife of Egbuka de Beppo
   * Works as a vet
   * Has a dog named Bodhi
   * has a tattoo on her foot
@@ -46,17 +46,17 @@ KilgoeTrout:
   * Has a wife who bikes incredibly long distances
   * Won the league last year
 
-zgward:
-  * Husband of rlether
+Egbuka de Beppo:
+  * Husband of Shake and Drake
   * Works as a medical resident
   * Lives in Indianapolis
   * Has a cat named Nori who likes to scratch him
-  * Son of CJune44
+  * Son of the player To Infinity & Bijan
   * Amazing DOTA player
 
-liv2skiluv2srf:
-  * Sister of zgward
-  * Daughter of CJune44
+Harles Barkley Jr.:
+  * Sister of Egbuka de Beppo
+  * Daughter of To Infinity & Bijan
   * Works as a salesperson at J. Jill
   * Plays ultimate frisbee
   * Has a boyfriend named Kurt
@@ -71,20 +71,20 @@ glythel:
   * Owns a rental house at Ocean Shores
   * Has kids named Adam and Sydney
 
-ryanjami:
+High Lifers:
   * Married with two kids
   * Works as a college professor in botany
   * Enjoys going backpacking all over the world with friends
 
 GOONSQUAD6000:
   * Son of LeastMode
-  * Nephew of wuf and CJune44
+  * Nephew of wuf and To Infinity & Bijan
   * Works out at the gym a lot
   * Goes on long bike trips
   * Plays violent video games
   * First time playing in this league
 
-CJune44:
+To Infinity & Bijan:
   * Wife of wuf
   * Has won the league before
   * Currently unemployed
